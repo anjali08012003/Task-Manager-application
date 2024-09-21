@@ -17,7 +17,7 @@ A full-featured task management application built with **React.js**, **MySQL**, 
 ## Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS
-- **Backend**: FastAPI, Python
+- **Backend**: FastAPI
 - **Database**: MySQL
 - **Authentication**: JWT (JSON Web Tokens)
   
@@ -26,7 +26,6 @@ A full-featured task management application built with **React.js**, **MySQL**, 
 ### Prerequisites
 
 - Node.js (v16+)
-- Python (v3.9+)
 - MySQL (v8.0+)
 
 ### Clone the repository
